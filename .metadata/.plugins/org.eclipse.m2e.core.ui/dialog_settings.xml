@@ -1,24 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
-	<section name="MavenProjectWizardArtifactPage">
-		<list key="groupId">
-		</list>
-		<list key="name">
-		</list>
-		<list key="artifactId">
-		</list>
-		<list key="projectNameTemplate">
-			<item value="[artifactId]"/>
-			<item value="[artifactId]-TRUNK"/>
-			<item value="[artifactId]-[version]"/>
-			<item value="[groupId].[artifactId]"/>
-			<item value="[groupId].[artifactId]-[version]"/>
-			<item value="[name]"/>
-		</list>
-		<list key="version">
-			<item value="0.0.1-SNAPSHOT"/>
-		</list>
-	</section>
 	<section name="org.eclipse.m2e.core.pom.dependencies">
 	</section>
 	<section name="org.eclipse.m2e.core.pom.overview">
@@ -29,61 +10,6 @@
 		<list key="issueManagementSystem">
 		</list>
 		<list key="issueManagementUrl">
-		</list>
-	</section>
-	<section name="MavenProjectWizardArchetypePage">
-		<item value="All Catalogs" key="catalog"/>
-		<list key="projectNameTemplate">
-			<item value="[artifactId]"/>
-			<item value="[artifactId]-TRUNK"/>
-			<item value="[artifactId]-[version]"/>
-			<item value="[groupId].[artifactId]"/>
-			<item value="[groupId].[artifactId]-[version]"/>
-			<item value="[name]"/>
-		</list>
-	</section>
-	<section name="MavenProjectWizardLocationPage">
-		<list key="location">
-			<item value="C:\Users\bishm\eclipse-workspace\AtHomePractice\src\Practice"/>
-			<item value="C:\Users\bishm\eclipse-workspace\AtHomePractice"/>
-			<item value="C:\Users\bishm\eclipse-workspace\NexttechProject01\src\test\java"/>
-			<item value="C:\Users\bishm\eclipse-workspace\Nexttech_JAVA"/>
-		</list>
-		<list key="projectNameTemplate">
-			<item value="[artifactId]"/>
-			<item value="[artifactId]-TRUNK"/>
-			<item value="[artifactId]-[version]"/>
-			<item value="[groupId].[artifactId]"/>
-			<item value="[groupId].[artifactId]-[version]"/>
-			<item value="[name]"/>
-		</list>
-	</section>
-	<section name="Maven2ProjectWizardArchifactPage">
-		<list key="package">
-			<item value="com.nexttech.FinalProject2020"/>
-			<item value="com."/>
-			<item value="com.NextTech"/>
-			<item value="com.NextTech.Selenium2020"/>
-		</list>
-		<list key="groupId">
-			<item value="com.nexttech"/>
-			<item value="com."/>
-			<item value="com.NextTech"/>
-		</list>
-		<list key="artifactId">
-			<item value="FinalProject2020"/>
-			<item value="Selenium2020"/>
-		</list>
-		<list key="projectNameTemplate">
-			<item value="[artifactId]"/>
-			<item value="[artifactId]-TRUNK"/>
-			<item value="[artifactId]-[version]"/>
-			<item value="[groupId].[artifactId]"/>
-			<item value="[groupId].[artifactId]-[version]"/>
-			<item value="[name]"/>
-		</list>
-		<list key="version">
-			<item value="0.0.1-SNAPSHOT"/>
 		</list>
 	</section>
 </section>
